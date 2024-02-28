@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\bianc\source\repos\sdd2Recuperare\Source.c(13,55): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\bianc\source\repos\sdd2Recuperare\Source.c(14,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\bianc\source\repos\sdd2Recuperare\Source.c(52,62): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\bianc\source\repos\sdd2Recuperare\Source.c(54,31): warning C4047: 'function': 'Avion **' differs in levels of indirection from 'Avion *'
+C:\Users\bianc\source\repos\sdd2Recuperare\Source.c(54,24): warning C4024: 'afiseazaAvioaneVector': different types for formal and actual parameter 1
+C:\Users\bianc\source\repos\sdd2Recuperare\Source.c(58,38): warning C4047: 'function': 'Avion **' differs in levels of indirection from 'Avion *'
+C:\Users\bianc\source\repos\sdd2Recuperare\Source.c(58,24): warning C4024: 'afiseazaAvioaneVector': different types for formal and actual parameter 1
+  sdd2Recuperare.vcxproj -> C:\Users\bianc\source\repos\sdd2Recuperare\Debug\sdd2Recuperare.exe
