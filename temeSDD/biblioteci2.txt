@@ -1,0 +1,11 @@
+Libris, 20, 30
+Alexandria, 30, 45
+Elefant, 40, 10
+Carturesti, 48, 10
+Nationala, 30, 40
+Libris2, 50, 320
+Alexandria2, 310, 55
+Elefant2, 40, 120
+Carturesti2, 438, 50
+Nationala2, 340, 40
+Test, 10, 20
