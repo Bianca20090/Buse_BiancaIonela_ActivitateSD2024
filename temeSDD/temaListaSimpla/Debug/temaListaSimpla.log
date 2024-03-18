@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\bianc\source\repos\temaListaSimpla\Source.c(187,10): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+C:\Users\bianc\source\repos\temaListaSimpla\Source.c(211,10): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+  temaListaSimpla.vcxproj -> C:\Users\bianc\source\repos\temaListaSimpla\Debug\temaListaSimpla.exe
