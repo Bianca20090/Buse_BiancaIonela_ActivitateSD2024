@@ -1,0 +1,2 @@
+﻿SourceListe.obj : error LNK2005: _main already defined in Source.obj
+C:\Users\bianc\source\repos\temaMatriceSDD\Debug\temaMatriceSDD.exe : fatal error LNK1169: one or more multiply defined symbols found
